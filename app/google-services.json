@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1074890436958",
+    "firebase_url": "https://fir-messagin0.firebaseio.com",
+    "project_id": "fir-messagin0",
+    "storage_bucket": "fir-messagin0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074890436958:android:4fa51a241bd9cdd7",
+        "android_client_info": {
+          "package_name": "net.deschulz.firebasemessaging0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074890436958-p3ahvndfer82jv0viou1o7jlobk1vvmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdacI0Na-aSbUkcqBFATFqYqvUQSH4lyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
